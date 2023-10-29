@@ -1,0 +1,13 @@
+Package: misszx
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 1.0.0
+Authors@R: person('George','Zhou',email = 'python73737@gmail',role = c('aut','cre))
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Statistics on the missing logs of outpatient clinics
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr
+RoxygenNote: 7.2.3
