@@ -2,7 +2,7 @@ Package: misszx
 Type: Package
 Title: What the Package Does (Title Case)
 Version: 1.0.0
-Authors@R: person('George','Zhou',email = 'python73737@gmail',role = c('aut','cre))
+Authors: person('George','Zhou',email = 'python73737@gmail',role = c('aut','cre))
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: Statistics on the missing logs of outpatient clinics
 License: MIT
